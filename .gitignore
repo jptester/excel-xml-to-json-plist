@@ -2,3 +2,6 @@
 /Debug/
 /x64/
 /ExcelXML_to_Plist.opensdf
+/.vs/
+/Release/
+/ExcelXML_to_Plist.sdf
